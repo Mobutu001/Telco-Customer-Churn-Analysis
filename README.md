@@ -107,13 +107,13 @@ Quantifies financial impact and outlines targeted retention strategies.
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](Dashboard%20Screenshots/Page1.png)
+![Executive Overview](Dashboard%20Screenshots/Executive%20Overview.png)
 
 ### Customer & Service Drivers
-![Customer & Service Drivers](Dashboard%20Screenshots/Page2.png)
+![Customer & Service Drivers](Dashboard%20Screenshots/Customer%20%26%20Service%20Drivers.png)
 
 ### Revenue Impact & Recommendations
-![Revenue Impact & Recommendations](Dashboard%20Screenshots/Page3.png)
+![Revenue Impact & Recommendations](Dashboard%20Screenshots/Revenue%20Impact%20%26%20Recommendations.png)
 
 ---
 
