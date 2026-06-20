@@ -15,6 +15,38 @@ This project analyses customer churn behaviour within a telecommunications compa
 
 ---
 
+## Project Architecture
+```
+CSV Dataset
+   |
+   v
+SQL Data Exploration & Analysis
+   |
+   v
+Power BI Data Model
+   |
+   v
+DAX Measures & KPIs
+   |
+   v
+Interactive Dashboard
+   |
+   v
+Business Insights & Recommendations
+```
+
+---
+
+## Skills Demonstrated
+- SQL Data Analysis
+- Data Modelling & DAX
+- KPI & Measure Development
+- Business Intelligence Dashboard Design
+- Customer Churn & Revenue Risk Analysis
+- Data-Driven Business Recommendations
+
+---
+
 ## Data Source
 IBM Telco Customer Churn dataset (publicly available via Kaggle). It contains **7,043** telecom customers with the following attributes:
 - Customer demographics
@@ -63,7 +95,7 @@ Built a three-page interactive dashboard:
 ---
 
 ## Methodology Notes
-- **Revenue at risk** is defined as the **monthly recurring revenue** (sum of `MonthlyCharges`) attributable to churned customers — not annual or lifetime value.
+- **Revenue at risk** is defined as the **monthly recurring revenue** (sum of `MonthlyCharges`) attributable to churned customers - not annual or lifetime value.
 - **Segment** refers to the combination of **Contract type x Internet Service** (e.g. "Month-to-month | Fiber optic").
 - For the Tech Support and Online Security comparisons, customers recorded as **"No internet service"** were excluded, since they are structurally unable to subscribe to those add-ons. This keeps the Yes-vs-No churn comparison clean and avoids understating the true gap.
 
